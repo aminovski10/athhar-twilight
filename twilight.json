@@ -27,7 +27,14 @@
       "title": "واجهة أثر الرئيسية",
       "icon": "sicon-image-carousel",
       "path": "home.athhar-home",
-      "fields": []
+      "fields": [
+        {
+          "id": "title",
+          "type": "string",
+          "label": "عنوان القسم",
+          "required": false
+        }
+      ]
     }
   ]
 }

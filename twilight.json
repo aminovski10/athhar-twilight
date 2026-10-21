@@ -20,14 +20,5 @@
     { "id": "show_tags", "type": "boolean", "label": "إظهار وسوم المنتجات", "format": "switch", "value": true, "selected": true },
     { "id": "footer_is_dark", "type": "boolean", "label": "تفعيل التذييل الداكن", "format": "switch", "value": false, "selected": false },
     { "id": "enable_add_product_toast", "type": "boolean", "label": "إظهار تنبيه إضافة المنتج للسلة", "format": "switch", "value": true, "selected": true }
-  ],
-  "components": [
-    {
-      "name": "athhar-home",
-      "title": "واجهة أثر الرئيسية",
-      "icon": "sicon-image-carousel",
-      "path": "home.athhar-home",
-      "fields": []
-    }
   ]
 }

@@ -1,10 +1,8 @@
 {
   "version": "1.0.0",
   "theme_name": "Athhar",
-  "name": { "ar": "أثر", "en": "Athhar" },
-  "repository": "https://github.com/aminovski10/athhar-twilight",
   "repo_url": "https://github.com/aminovski10/athhar-twilight",
-  "support_url": "https://github.com/aminovski10/athhar-twilight/issues",
+  "support_url": "https://salla.dev",
   "author_email": "support@athhar.store",
   "features": [
     "fonts",
@@ -23,12 +21,10 @@
   ],
   "components": [
     {
-      "key": "athhar-home",
       "name": "athhar-home",
-      "title": { "ar": "واجهة أثر الرئيسية", "en": "Athhar Home" },
+      "title": "واجهة أثر الرئيسية",
       "icon": "sicon-home-2",
       "path": "home.athhar-home",
-      "is_default": true,
       "fields": []
     }
   ]

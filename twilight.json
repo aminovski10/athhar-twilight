@@ -23,11 +23,9 @@
   ],
   "components": [
     {
-      "key": "8d7e5c1a-5f7f-4b2b-9f61-8f3d2f8c4a10",
-      "title": { "ar": "واجهة أثر الرئيسية", "en": "Athhar Home" },
-      "icon": "sicon-image-carousel",
+      "name": "athhar-home",
+      "title": "واجهة أثر الرئيسية",
       "path": "home.athhar-home",
-      "is_default": true,
       "fields": []
     }
   ]

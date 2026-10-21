@@ -25,7 +25,7 @@
     {
       "name": "athhar-home",
       "title": "واجهة أثر الرئيسية",
-      "icon": "sicon-home-2",
+      "icon": "sicon-image-carousel",
       "path": "home.athhar-home",
       "fields": []
     }

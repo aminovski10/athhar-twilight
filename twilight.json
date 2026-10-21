@@ -1,4 +1,9 @@
 {
+  "name": {
+    "ar": "أثر",
+    "en": "Athhar"
+  },
+  "repository": "https://github.com/aminovski10/athhar-twilight",
   "version": "1.0.0",
   "theme_name": "Athhar",
   "repo_url": "https://github.com/aminovski10/athhar-twilight",

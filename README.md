@@ -7,6 +7,7 @@
 - `src/views/pages/index.twig` هو مسار الصفحة الرئيسية القياسي.
 - `src/views/components/home/athhar-home.twig` يحتوي على تجربة أثر الرئيسية.
 - `src/assets/styles/app.css` و`src/assets/js/app.js` للأصول الخاصة بالثيم.
+- `public/icon.svg` أيقونة SVG صالحة لاستخدامها في نموذج استيراد الثيم داخل Salla.
 
 ## ما يلزم قبل التشغيل والنشر
 

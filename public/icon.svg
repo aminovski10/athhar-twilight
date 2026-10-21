@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">أثر</title>
+  <desc id="desc">شعار أثر</desc>
+  <rect width="512" height="512" rx="96" fill="#1f2926"/>
+  <circle cx="256" cy="220" r="116" fill="#ad6948" opacity=".92"/>
+  <path d="M256 118c-18 44-44 70-78 78 34 8 60 34 78 78 18-44 44-70 78-78-34-8-60-34-78-78Z" fill="#f4efe7"/>
+  <text x="256" y="402" fill="#fffdf8" font-family="Georgia,serif" font-size="46" text-anchor="middle">ATHHAR</text>
+</svg>

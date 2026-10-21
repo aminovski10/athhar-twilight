@@ -1,0 +1,31 @@
+{
+  "name": { "ar": "أثر", "en": "Athhar" },
+  "repository": "https://github.com/your-account/athhar-twilight",
+  "author_email": "support@example.com",
+  "features": [
+    "fonts",
+    "color",
+    "breadcrumb",
+    "component-featured-products",
+    "component-products-slider",
+    "component-store-features",
+    "filters"
+  ],
+  "settings": [
+    { "id": "header_is_sticky", "type": "boolean", "label": "تثبيت الهيدر أعلى الصفحة", "format": "switch", "value": true, "selected": true },
+    { "id": "show_tags", "type": "boolean", "label": "إظهار وسوم المنتجات", "format": "switch", "value": true, "selected": true },
+    { "id": "footer_is_dark", "type": "boolean", "label": "تفعيل التذييل الداكن", "format": "switch", "value": false, "selected": false },
+    { "id": "enable_add_product_toast", "type": "boolean", "label": "إظهار تنبيه إضافة المنتج للسلة", "format": "switch", "value": true, "selected": true }
+  ],
+  "components": [
+    {
+      "key": "athhar-home",
+      "name": "athhar-home",
+      "title": { "ar": "واجهة أثر الرئيسية", "en": "Athhar Home" },
+      "icon": "sicon-home-2",
+      "path": "home.athhar-home",
+      "is_default": true,
+      "fields": []
+    }
+  ]
+}

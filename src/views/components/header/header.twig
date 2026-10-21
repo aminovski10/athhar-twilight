@@ -1,0 +1,10 @@
+<header class="athhar-header" data-sticky="{{ theme.settings.get('header_is_sticky', true) ? 'true' : 'false' }}">
+  <div class="athhar-wrap athhar-header-inner">
+    <button class="athhar-menu" type="button" aria-label="فتح القائمة" aria-expanded="false">☰</button>
+    <a class="athhar-logo" href="{{ store.url }}">أثر<span>ATHHAR</span></a>
+    <nav class="athhar-nav" aria-label="القائمة الرئيسية">
+      <a href="{{ store.url }}">الرئيسية</a><a href="{{ store.url }}/categories">المجموعات</a><a href="#athhar-story">عن أثر</a>
+    </nav>
+    <div class="athhar-actions"><button type="button" class="athhar-icon" data-salla-search aria-label="بحث">⌕</button><a class="athhar-icon" href="{{ store.url }}/cart" aria-label="السلة">◌</a></div>
+  </div>
+</header>

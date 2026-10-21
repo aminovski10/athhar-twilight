@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "theme_name": "Athhar",
+  "name": { "ar": "أثر", "en": "Athhar" },
   "repo_url": "https://github.com/aminovski10/athhar-twilight",
   "support_url": "https://salla.dev",
   "author_email": "support@athhar.store",
